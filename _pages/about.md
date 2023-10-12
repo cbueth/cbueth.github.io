@@ -48,3 +48,5 @@ As of now, I am assisting with a research project at
 <a href='https://www.valpar.ch/index_en.php?page=home_en'>ValPar.ch</a>, exploring 
 the impact of future climate scenarios on biodiversity and ecosystem services in
 Switzerland.
+
+<a rel="me" href="https://datasci.social/@cbueth"></a>
