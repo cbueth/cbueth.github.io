@@ -5,3 +5,10 @@
 "Barbour":
   - firstname: ["Natalia", "N."]
     url: https://www.nataliabarbour.com/
+
+"Vybornova":
+  - firstname: ["Anastassia", "A."]
+
+"Szell":
+  - firstname: ["Michael", "M."]
+    url: http://michael.szell.net/
