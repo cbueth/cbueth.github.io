@@ -1,14 +1,14 @@
-"Abdel-Aty":
+"abdel-aty":
   - firstname: ["Mohamed", "M."]
-    url: https://www.cece.ucf.edu/aty/
+    url: https://www.cece.ucf.edu/person/abdelaty/
 
-"Barbour":
+"barbour":
   - firstname: ["Natalia", "N."]
     url: https://www.nataliabarbour.com/
 
-"Vybornova":
+"vybornova":
   - firstname: ["Anastassia", "A."]
 
-"Szell":
+"szell":
   - firstname: ["Michael", "M."]
     url: http://michael.szell.net/
