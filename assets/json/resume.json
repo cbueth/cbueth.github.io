@@ -6,7 +6,7 @@
     "phone": "",
     "url": "",
     "summary": "",
-    "languages": "German, English, Spanish, Danish, Latin"
+    "languages": "German, English, Spanish, Danish, Catalan, Latin"
   },
   "work": [
     {
@@ -37,6 +37,21 @@
       "highlights": [
         "BSc Thesis: <a href='https://www.researchgate.net/publication/362860555_Fault_Injection_for_Robustness_Testing_of_Satellite_On-Board_Image_Processing'>Fault Injection for Robustness Testing of Satellite On-Board Image Processing</a>"
       ]
+    },
+    {
+      "name": "Deans office Department VII - Psychology & Sports Sciences",
+      "position": "Student Assistant (SHB)",
+      "url": "https://www.uni-muenster.de/PsyEval/index.html",
+      "startDate": "2019-10",
+      "endDate": "2023-09",
+      "summary": "IT support and administration for the evaluation of the teaching quality of the department"
+    },
+    {
+      "name": "Münster University Hospital (UKM)",
+      "url": "https://www.ukm.de/university-hospital-muenster",
+      "position": "Service Staff",
+      "startDate": "2015-09",
+      "endDate": "2019-09"
     }
   ],
   "volunteer": [
@@ -63,6 +78,20 @@
       "startDate": "2022-02-28",
       "endDate": "2022-04-01",
       "summary": "Meta-Analysis on Bicycle Helment Effectiveness (<a href='https://www.nature.com/articles/s41598-023-35728-x'>paper</a>)"
+    },
+    {
+      "organization": "Student Council of the Department of Computer Science, University of Münster",
+      "position": "Student Representative",
+      "url": "https://www.uni-muenster.de/FSMI/",
+      "startDate": "2020-10-01",
+      "endDate": "2021-09-30"
+    },
+    {
+      "organization": "Student Council of the Department of Physics, University of Münster",
+      "position": "Student Representative",
+      "url": "https://www.uni-muenster.de/Physik.FSPHYS/en/",
+      "startDate": "2018-10-01",
+      "endDate": "2020-09-30"
     }
   ],
   "education": [
@@ -159,6 +188,7 @@
       "level": "Master",
       "keywords": [
         "Python",
+        "R",
         "LaTeX",
         "C++",
         "SQL",
@@ -173,9 +203,8 @@
         "Linux",
         "Bash",
         "Slurm",
-        "NumPy",
-        "SciPy",
-        "Pandas",
+        "Conda-Forge & Mamba",
+        "NumPy, SciPy, Pandas & Matplotlib",
         "Git/GitHub/GitLab"
       ]
     },
@@ -187,6 +216,7 @@
         "English",
         "Spanish",
         "Danish",
+        "Catalan",
         "Latin"
       ]
     }
