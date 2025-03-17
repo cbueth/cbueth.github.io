@@ -24,8 +24,8 @@
       "position": "External Scientist",
       "url": "https://plus.ethz.ch/",
       "startDate": "2023-08-14",
-      "endDate": "2024-09-31",
-      "summary": "Procurement of a high-performance biodiversity modeling pipeline and adapted linkage, in the context of the <a href='https://www.valpar.ch/index_en.php?page=home_en'>ValPar.CH</a> project"
+      "endDate": "2025-01-31",
+      "summary": "Procurement of a high-performance biodiversity modeling pipeline and adapted linkage, in the context of the <a href='https://www.valpar.ch/index_en.php?page=home_en'>ValPar.CH</a> project (to be published)"
     },
     {
       "name": "German Aerospace Center (DLR), Berlin-Adlershof",
@@ -44,7 +44,7 @@
       "url": "https://www.uni-muenster.de/PsyEval/index.html",
       "startDate": "2019-10",
       "endDate": "2023-09",
-      "summary": "IT support and administration for the evaluation of the teaching quality of the department"
+      "summary": "IT administration and support for the evaluation of the teaching quality of the department"
     },
     {
       "name": "Münster University Hospital (UKM)",
@@ -191,9 +191,10 @@
         "R",
         "LaTeX",
         "C++",
-        "SQL",
-        "HTML",
         "Java"
+        "SQL",
+        "Fortran",
+        "HTML",
       ]
     },
     {
