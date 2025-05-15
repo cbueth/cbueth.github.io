@@ -24,6 +24,8 @@ Welcome! I am a PhD candidate at <a href='https://ifisc.uib-csic.es/en/'>IFISC
 Originally specialized in Nonlinear Physics, Complex Systems and Quantum Field Theory,
 I am interested in the study of transport, especially active mobility modes, and 
 sustainability.
+Right now, I am investigating information transfer using information theory measures
+and estimators.
 
 As I studied both Physics and Computer Science, my methods are mostly computational.
 My undergrad theses were on <i>Deep Inelastic $$e^±p$$ Scattering with Boson Exchange 
@@ -37,16 +39,10 @@ Inbetween, I interned at the <a href='https://www.tudelft.nl/en/tpm/'>Faculty of
 Technology, Policy and Management</a> at <a href='https://www.tudelft.nl/en/'>
 TU Delft, The Netherlands</a>, to gain experience in the field of active mobility
 and transport safety.
-
-[//]: # (Assisting with a research project in context of ValPar.ch)
-[//]: # (https://www.valpar.ch/index_en.php?page=home_en)
-[//]: # (Project exploring future climate scenarios, integrating a land use model)
-[//]: # (with a biodiversity model)
-[//]: # (at PLUS (ETH Zurich) https://plus.ethz.ch/)
-As of now, I am assisting with a research project at
+Furthermore, I have assisted with a research project at
 <a href='https://plus.ethz.ch/'>PLUS (ETH Zurich)</a> in context of
 <a href='https://www.valpar.ch/index_en.php?page=home_en'>ValPar.ch</a>, exploring 
 the impact of future climate scenarios on biodiversity and ecosystem services in
-Switzerland.
+Switzerland (submitted).
 
 <a rel="me" href="https://datasci.social/@cbueth"></a>
