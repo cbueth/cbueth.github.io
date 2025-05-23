@@ -2,13 +2,13 @@
   - firstname: ["Mohamed", "M."]
     url: https://www.cece.ucf.edu/person/abdelaty/
 
+"acharya":
+  - firstname: ["Kishor", "K."]
+    url: https://acharyakishor.com/
+
 "barbour":
   - firstname: ["Natalia", "N."]
     url: https://www.nataliabarbour.com/
-
-"kishor":
-  - firstname: ["Acharya", "A."]
-    url: https://acharyakishor.com/
 
 "szell":
   - firstname: ["Michael", "M."]
