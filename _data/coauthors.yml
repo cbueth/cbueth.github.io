@@ -6,9 +6,17 @@
   - firstname: ["Natalia", "N."]
     url: https://www.nataliabarbour.com/
 
-"vybornova":
-  - firstname: ["Anastassia", "A."]
+"kishor":
+  - firstname: ["Acharya", "A."]
+    url: https://acharyakishor.com/
 
 "szell":
   - firstname: ["Michael", "M."]
     url: http://michael.szell.net/
+
+"vybornova":
+  - firstname: ["Anastassia", "A."]
+
+"zanin":
+  - firstname: ["Massimiliano", "M."]
+    url: https://mzanin.com/
